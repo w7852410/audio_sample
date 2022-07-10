@@ -1,39 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/w7852410/audio_sample/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+https://user-images.githubusercontent.com/68937394/178152861-78035c6a-b850-4f2f-b874-8fd1884b7e99.mp4
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://user-images.githubusercontent.com/68937394/178152862-5a509ec8-55bf-4a5c-bf7d-4475fa1df9c8.mp4
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-This is a regular paragraph.
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+https://user-images.githubusercontent.com/68937394/178152864-2d089bc2-fbab-492e-bb9f-e1ee463ea5ec.mp4
 
-This is another regular paragraph. 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/w7852410/audio_sample/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://user-images.githubusercontent.com/68937394/178152865-511a0c9a-807d-453f-a0fd-26aa37a22255.mp4
