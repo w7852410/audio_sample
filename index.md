@@ -14,20 +14,15 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-<body>
-  <table class="table">
-    <tbody>
-      <tr>
-        <td>
-          "p225_002"
-          <audio controls="" preload="none">
-          <source src="audio_sample/900_step/Female_to_Male_S2VC_same_sentence.wav">
-          </audio>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</body>  
+This is a regular paragraph.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+This is another regular paragraph. 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
