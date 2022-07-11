@@ -1,12 +1,10 @@
 <table>
   <tr>
-    <td></td>
     <td>Content</td>
     <td>Style</td>
     <td>Conversion</td>
   </tr>
   <tr>
-    <td></td>
     <td>
           "p225_002"
           <audio controls autoplay>
@@ -24,7 +22,6 @@
           </audio></td>
   </tr>
    <tr>
-    <td></td>
     <td>
           "p227_002"
           <audio controls autoplay>
