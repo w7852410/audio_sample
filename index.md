@@ -1,4 +1,9 @@
-<table>
+<!DOCTYPE html>
+<html lang=”en”>
+<head>
+</head>
+<body>
+  <table>
   <tr>
     <td>Content</td>
     <td>Style</td>
@@ -40,3 +45,6 @@
   </tr>
 </table>
 
+
+</body>
+</html>
