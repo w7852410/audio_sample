@@ -5,42 +5,81 @@
 <body>
   <table>
   <tr>
+    <td></td>
     <td>Content</td>
     <td>Style</td>
     <td>Conversion</td>
   </tr>
   <tr>
+    <td>F2F</td>
     <td>
-          "p225_002"
+          "F2F_source"
           <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/main/Conversion/p225/p225_002_mic1.wav" type="audio/mpeg">
+                <source src="audio_sample/Pitch_test/F2F_source.wav" type="audio/mpeg">
           </audio></td>
     <td>
-          "p227_002"
+          "F2F_target"
           <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/main/Conversion/p227/p227_002_mic1.wav" type="audio/mpeg">
+                <source src="audio_sample/Pitch_test/F2F_target.wav" type="audio/mpeg">
           </audio></td>
     <td>
-          "Female_to_Male"
+          "F2F_nvcneto"
           <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/main/Conversion/900/Female_to_Male_S2VC_same_sentence.wav" type="audio/mpeg">
+                <source src="audio_sample/Pitch_test/F2F_nvcneto.wav" type="audio/mpeg">
           </audio></td>
   </tr>
-   <tr>
+  <tr>
+    <td>M2M</td>
     <td>
-          "p227_002"
+          "M2M_source"
           <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/main/Conversion/p227/p227_002_mic1.wav" type="audio/mpeg">
+                <source src="audio_sample/Pitch_test/M2M_source.wav" type="audio/mpeg">
           </audio></td>
     <td>
-          "p225_002"
+          "M2M_target"
           <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/main/Conversion/p225/p225_002_mic1.wav" type="audio/mpeg">
+                <source src="audio_sample/Pitch_test/M2M_target.wav" type="audio/mpeg">
           </audio></td>
     <td>
-          "Male_to_Female"
+          "M2M_nvcneto"
           <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/main/Conversion/900/Male_to_Female_S2VC_same_sentence.wav" type="audio/mpeg">
+                <source src="audio_sample/Pitch_test/M2M_nvcneto.wav" type="audio/mpeg">
+          </audio></td>
+  </tr>
+  <tr>
+    <td>F2M</td>
+    <td>
+          "F2M_source"
+          <audio controls autoplay>
+                <source src="audio_sample/Pitch_test/F2M_source.wav" type="audio/mpeg">
+          </audio></td>
+    <td>
+          "F2M_target"
+          <audio controls autoplay>
+                <source src="audio_sample/Pitch_test/F2M_target.wav" type="audio/mpeg">
+          </audio></td>
+    <td>
+          "F2M_nvcneto"
+          <audio controls autoplay>
+                <source src="audio_sample/Pitch_test/F2M_nvcneto.wav" type="audio/mpeg">
+          </audio></td>
+  </tr>
+  <tr>
+    <td>M2F</td>
+    <td>
+          "M2F_source"
+          <audio controls autoplay>
+                <source src="audio_sample/Pitch_test/M2F_source.wav" type="audio/mpeg">
+          </audio></td>
+    <td>
+          "M2F_target"
+          <audio controls autoplay>
+                <source src="audio_sample/Pitch_test/M2F_target.wav" type="audio/mpeg">
+          </audio></td>
+    <td>
+          "M2F_nvcneto"
+          <audio controls autoplay>
+                <source src="audio_sample/Pitch_test/M2F_nvcneto.wav" type="audio/mpeg">
           </audio></td>
   </tr>
 </table>
