@@ -26,6 +26,5 @@
   </tr>
   
 </table>
-<a href="css/style.css">style.css</a>
-<a href="get_29.mid">Download File</a>
+
 
