@@ -1,36 +1,35 @@
  <table>
   <tr>
     <td></td>
-    <td>Content</td>
-    <td>Style</td>
-    <td>Conversion</td>
+    <td>Original</td>
+    <td>Change_formant</td>
+    <td>Pitch_Randomization</td>
+   <td>Change_formant_And_Pitch_Randomization</td>
   </tr>
   
   <tr>
     <td>F2M</td>
     <td>
-          "F2M_source"
+          ""
           <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/VCC2018/Female30001.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/828/ntust.wav" type="audio/mpeg">
           </audio></td>
     <td>
-          "F2M_target"
+          ""
           <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/VCC2018/Male30001.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/828/change_formant.wav" type="audio/mpeg">
           </audio></td>
     <td>
-          "F2M_nvcneto"
+          ""
           <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/VCC2018/SF1-SM2-30001.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/828/random_pitch.wav" type="audio/mpeg">
+          </audio></td>
+   <td>
+          ""
+          <audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/828/change_formant_and_random_pitch.wav" type="audio/mpeg">
           </audio></td>
   </tr>
   
 </table>
 
-
-<script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.4.0"></script>
-<midi-player
-  src="https://bitmidi.com/uploads/82625.mid"
-  sound-font visualizer="#myVisualizer">
-</midi-player>
-<midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
