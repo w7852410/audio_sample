@@ -1,5 +1,65 @@
  <table>
   <tr>
+    <td>Waveform_GAN</td>
+    <td>
+     <audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/gan/F_re_english_2.wav" type="audio/mpeg">
+     </audio>
+   </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+    <td></td>
+    <td>P334_007</td>
+    <td>P343_004</td>
+    <td>p334_007_to_p343_004</td>
+    <td>p334_007_to_p343_004</td>
+   
+  </tr>
+  <tr>
+    <td>方案一</td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p334_007.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p343_004.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p334_007_to_p343_004.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p343_004_to_p334_007.wav" type="audio/mpeg">
+     </audio>
+    </td>
+   
+  </tr>
+  <tr>
+    <td>方案二</td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p334_007.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p343_004.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/unet/model_net_p334_to_p343_generated_e2e.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/unet/model_net_p343_to_p334_generated_e2e.wav" type="audio/mpeg">
+     </audio>
+    </td>
+   
+  </tr>
+ </table>
+ <table>
+  <tr>
     <td></td>
     <td>Content</td>
     <td>Style</td>
