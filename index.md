@@ -1,24 +1,13 @@
+
  <table>
   <tr>
-    <td>Waveform_GAN</td>
-    <td>
-     <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/gan/F_re_english_2.wav" type="audio/mpeg">
-     </audio>
-   </td>
-  </tr>
- </table>
- <table>
-  <tr>
-    <td></td>
-    <td>P334_007</td>
-    <td>P343_004</td>
-    <td>p334_007_to_p343_004</td>
-    <td>p334_007_to_p343_004</td>
+    <td>訓練時有看過的男生</td>
+    <td>訓練時有看過的女生</td>
+    <td>男生的內容、女生的風格</td>
+    <td>女生的內容、男生的風格</td>
    
   </tr>
   <tr>
-    <td>方案一</td>
     <td><audio controls autoplay>
                 <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p334_007.wav" type="audio/mpeg">
      </audio>
@@ -28,31 +17,11 @@
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p334_007_to_p343_004.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/1003/model_net_p334_to_p343_generated_e2e.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p343_004_to_p334_007.wav" type="audio/mpeg">
-     </audio>
-    </td>
-   
-  </tr>
-  <tr>
-    <td>方案二</td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p334_007.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/again/p343_004.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/unet/model_net_p334_to_p343_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-09-25/unet/model_net_p343_to_p334_generated_e2e.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/1003/model_net_p343_to_p334_generated_e2e.wav" type="audio/mpeg">
      </audio>
     </td>
    
@@ -60,127 +29,40 @@
  </table>
  <table>
   <tr>
-    <td></td>
-    <td>Content</td>
-    <td>Style</td>
-    <td>Female to Female</td>
-    <td>Female to Male</td>
+    <td>訓練時沒看過的男生</td>
+    <td>訓練時沒看過的女生</td>
+    <td>男生重建</td>
+    <td>女生重建</td>
+    <td>男生的內容、女生的風格</td>
+    <td>女生的內容、男生的風格</td>
+   
   </tr>
-  
   <tr>
-   <td>方案一(英文)</td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/p225_005_mic1.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/p226_006_mic1.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/1/1_F2F_english.wav" type="audio/mpeg">
-          </audio></td>
-   <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/1/1_F2M_english.wav" type="audio/mpeg">
-          </audio></td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/1003/cut_Male.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/1003/LJ001-0001.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/1003/model_net_chinese_male_male_generated_e2e.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/1003/model_net_chinese_female_female_generated_e2e.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/1003/model_net_chinese_male_female_generated_e2e.wav" type="audio/mpeg">
+     </audio>
+    </td>
+    <td><audio controls autoplay>
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/1003/model_net_chinese_female_male_generated_e2e.wav" type="audio/mpeg">
+     </audio>
+    </td>
+   
   </tr>
- <tr>
-   <td>方案一(中文)</td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/ntust.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/p226_006_mic1.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/1/1_F2F_chinese.wav" type="audio/mpeg">
-          </audio></td>
-   <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/1/1_F2M_chinese_english.wav" type="audio/mpeg">
-          </audio></td>
-  </tr>
- <tr>
-   <td>方案二(英文)</td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/p225_005_mic1.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/p226_006_mic1.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/2/2_F2F_english.wav" type="audio/mpeg">
-          </audio></td>
-   <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/2/2_F2M_english.wav" type="audio/mpeg">
-          </audio></td>
-  </tr>
- <tr>
-   <td>方案二(中文)</td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/ntust.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/p226_006_mic1.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/2/2_F2F_chinese.wav" type="audio/mpeg">
-          </audio></td>
-   <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/2/2_F2M_chinese_english.wav" type="audio/mpeg">
-          </audio></td>
-  </tr>
- <tr>
-   <td>方案三(英文)</td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/p225_005_mic1.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/p226_006_mic1.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/3/3_F2F_english.wav" type="audio/mpeg">
-          </audio></td>
-   <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/3/3_F2M_english.wav" type="audio/mpeg">
-          </audio></td>
-  </tr>
- <tr>
-   <td>方案三(中文)</td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/ntust.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/p226_006_mic1.wav" type="audio/mpeg">
-          </audio></td>
-    <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/3/3_F2F_chinese.wav" type="audio/mpeg">
-          </audio></td>
-   <td>
-          <audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/audio/3/3_F2M_chinese_english.wav" type="audio/mpeg">
-          </audio></td>
-  </tr>
-  
-</table>
+ </table>
 
