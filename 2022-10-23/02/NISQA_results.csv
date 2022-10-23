@@ -1,0 +1,13 @@
+deg,mos_pred,noi_pred,dis_pred,col_pred,loud_pred,model
+Seen_Male_2_to_Seen_Male_2_generated_e2e.wav,4.234856,4.3569937,4.1984043,4.0309815,3.9779124,NISQAv2
+UnSeen_FeMale_to_UnSeen_FeMale_generated_e2e.wav,4.748743,4.4506273,4.47997,4.3247766,4.5579205,NISQAv2
+Seen_Male_2_to_Seen_FeMale_2_generated_e2e.wav,4.755146,4.413001,4.6616745,4.3667445,4.5131927,NISQAv2
+UnSeen_FeMale_to_Seen_Male_generated_e2e.wav,4.8881273,4.60853,4.5413003,4.393039,4.567915,NISQAv2
+Seen_FeMale_1_to_Seen_FeMale_1_generated_e2e.wav,4.648736,4.409855,4.6218905,4.369675,4.523584,NISQAv2
+UnSeen_Male_to_UnSeen_Male_generated_e2e.wav,4.9580526,4.3544254,4.6343064,4.444877,4.640324,NISQAv2
+UnSeen_FeMale_english_to_UnSeen_FeMale_english_generated_e2e.wav,3.965355,2.9223619,3.9130661,3.8361528,4.057444,NISQAv2
+UnSeen_FeMale_chinese_to_UnSeen_FeMale_chinese_generated_e2e.wav,4.6618795,4.1234727,4.6005397,4.2758565,4.2763586,NISQAv2
+Seen_FeMale_1_to_Seen_Male_1_generated_e2e.wav,4.682973,4.4001303,4.608918,4.368446,4.523032,NISQAv2
+UnSeen_FeMale_english_to_UnSeen_Male_generated_e2e.wav,4.744239,3.9261398,4.3056417,4.2533865,4.414957,NISQAv2
+UnSeen_Male_to_Seen_FeMale_generated_e2e.wav,4.9107404,4.183806,4.5517974,4.3977447,4.559464,NISQAv2
+UnSeen_FeMale_chinese_to_UnSeen_Male_generated_e2e.wav,4.5672355,4.3106203,4.352715,4.14392,4.302022,NISQAv2
