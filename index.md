@@ -29,8 +29,8 @@
  </table>
  <table>
   <tr>
-    <td>UnSeen_Chinese</td>
-    <td>UnSeen_Dutch</td>
+    <td>UnSeen_Chinese(內容)</td>
+    <td>UnSeen_Dutch(風格)</td>
     <td>原先的模型</td>
     <td>加入AdaIN</td>
 
