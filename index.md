@@ -1,37 +1,27 @@
 
  <table>
   <tr>
-    <td>Seen_Male(英文)</td>
-    <td>Seen_FeMale(英文)</td>
-    <td>UnSeen_Male(英文)</td>
-    <td>UnSeen_FeMale(英文)</td>
-    <td>UnSeen_FeMale_english(Google小姐、英文)</td>
-    <td>UnSeen_FeMale_chinese(Google小姐、中文)</td>
-   
+    <td>Seen_Female(內容)</td>
+    <td>Seen_Male(風格)</td>
+    <td>原先的模型</td>
+    <td>加入AdaIN</td>
+
   </tr>
   <tr>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/p260_060_mic1.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/p314_006_mic1.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/p314_006_mic1.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/p260_060_mic1.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/arctic_a0001.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/1/Seen_FeMale_to_Seen_Male_generated_e2e.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/arctic_a0002.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/ntust_english.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/ntust.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/2/Seen_FeMale_to_Seen_Male_generated_e2e.wav" type="audio/mpeg">
      </audio>
     </td>
    
@@ -39,80 +29,27 @@
  </table>
  <table>
   <tr>
-    <td></td>
-    <td>Seen_FeMale_to_Seen_Male</td>
-    <td>Seen_Male_to_Seen_FeMale</td>
-    <td>UnSeen_FeMale_chinese_to_UnSeen_Male</td>
-    <td>UnSeen_FeMale_english_to_UnSeen_Male</td>
-    <td>UnSeen_FeMale_to_Seen_Male</td>
-    <td>UnSeen_Male_to_Seen_FeMale</td>
-   
+    <td>UnSeen_Chinese</td>
+    <td>UnSeen_Dutch</td>
+    <td>原先的模型</td>
+    <td>加入AdaIN</td>
+
   </tr>
   <tr>
-    <td>方案一</td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/01/result_wav/Seen_FeMale_1_to_Seen_Male_1_generated_e2e.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/Chinese.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/01/result_wav/Seen_Male_2_to_Seen_FeMale_2_generated_e2e.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/Dutch.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/01/result_wav/UnSeen_FeMale_chinese_to_UnSeen_Male_generated_e2e.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/1/UnSeen_Chinese_to_UnSeen_Dutch_generated_e2e.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/01/result_wav/UnSeen_FeMale_english_to_UnSeen_Male_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/01/result_wav/UnSeen_FeMale_to_Seen_Male_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/01/result_wav/UnSeen_Male_to_Seen_FeMale_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-   
-  </tr>
- </table>
- 
- <table>
-  <tr>
-    <td></td>
-    <td>Seen_FeMale_to_Seen_Male</td>
-    <td>Seen_Male_to_Seen_FeMale</td>
-    <td>UnSeen_FeMale_chinese_to_UnSeen_Male</td>
-    <td>UnSeen_FeMale_english_to_UnSeen_Male</td>
-    <td>UnSeen_FeMale_to_Seen_Male</td>
-    <td>UnSeen_Male_to_Seen_FeMale</td>
-   
-  </tr>
-  <tr>
-    <td>方案二</td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/02/result_wav/Seen_FeMale_1_to_Seen_Male_1_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/02/result_wav/Seen_Male_2_to_Seen_FeMale_2_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/02/result_wav/UnSeen_FeMale_chinese_to_UnSeen_Male_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/02/result_wav/UnSeen_FeMale_english_to_UnSeen_Male_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/02/result_wav/UnSeen_FeMale_to_Seen_Male_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/02/result_wav/UnSeen_Male_to_Seen_FeMale_generated_e2e.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/2/UnSeen_Chinese_to_UnSeen_Dutch_generated_e2e.wav" type="audio/mpeg">
      </audio>
     </td>
    
@@ -120,39 +57,27 @@
  </table>
  <table>
   <tr>
-    <td></td>
-    <td>Seen_FeMale_to_Seen_Male</td>
-    <td>Seen_Male_to_Seen_FeMale</td>
-    <td>UnSeen_FeMale_chinese_to_UnSeen_Male</td>
-    <td>UnSeen_FeMale_english_to_UnSeen_Male</td>
-    <td>UnSeen_FeMale_to_Seen_Male</td>
-    <td>UnSeen_Male_to_Seen_FeMale</td>
-   
+    <td>UnSeen_Male(內容)</td>
+    <td>UnSeen_Female(風格)</td>
+    <td>原先的模型</td>
+    <td>加入AdaIN</td>
+
   </tr>
   <tr>
-    <td>方案三</td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/03/result_wav/Seen_FeMale_1_to_Seen_Male_1_generated_e2e.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/arctic_a0001.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/03/result_wav/Seen_Male_2_to_Seen_FeMale_2_generated_e2e.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/arctic_a0006.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/03/result_wav/UnSeen_FeMale_chinese_to_UnSeen_Male_generated_e2e.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/1/UnSeen_Male_to_UnSeen_FeMale_generated_e2e.wav" type="audio/mpeg">
      </audio>
     </td>
     <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/03/result_wav/UnSeen_FeMale_english_to_UnSeen_Male_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/03/result_wav/UnSeen_FeMale_to_Seen_Male_generated_e2e.wav" type="audio/mpeg">
-     </audio>
-    </td>
-    <td><audio controls autoplay>
-                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-10-23/03/result_wav/UnSeen_Male_to_Seen_FeMale_generated_e2e.wav" type="audio/mpeg">
+                <source src="https://github.com/w7852410/audio_sample/raw/gh-pages/2022-11-20/2/UnSeen_Male_to_UnSeen_FeMale_generated_e2e.wav" type="audio/mpeg">
      </audio>
     </td>
    
